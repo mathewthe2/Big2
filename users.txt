@@ -1,0 +1,2 @@
+[User=John][Pass=1234][score=50]
+[User=ilovemrtong][Pass=ihatemrtong][score=-100]
